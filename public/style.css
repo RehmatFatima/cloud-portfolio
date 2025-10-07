@@ -1,0 +1,39 @@
+body {
+  background-color: #121212;
+  color: #E0E0E0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 50px 0;
+}
+
+section {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #1E1E1E;
+  border-radius: 8px;
+}
+
+h1, h2 {
+  color: #FFA500;
+}
+
+input, textarea, button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+}
+
+button {
+  background-color: #039BE5;
+  color: white;
+  cursor: pointer;
+}
